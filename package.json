@@ -1,0 +1,26 @@
+{
+    "author": "yan.telon@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "ht-6-wensen",
+    "pebble": {
+        "displayName": "HT 6 - Wensen",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "451ed285-d14e-45f4-9114-89dc6433bebd",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
